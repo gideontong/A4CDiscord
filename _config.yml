@@ -33,8 +33,8 @@ features                                  :
     description                           : Run !hello to get a reply back.
     fontawesome_icon_name                 : magic
     
-  - title                                 : iPhone Device Preview
-    description                           : Preview your app in the context of an iPhone device. Five different device colors included.
+  - title                                 : Find a verse
+    description                           : Type !verse [verse] to find a verse from the KJV Bible
     fontawesome_icon_name                 : mobile
 
   - title                                 : Video Support
