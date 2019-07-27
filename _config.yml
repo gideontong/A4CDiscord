@@ -29,8 +29,8 @@ youtube_username                          : funnygid123
 
 features                                  :
 
-  - title                                 : GitHub Pages Jekyll Theme
-    description                           : Designed for GitHub Pages. Fork. Edit _config.yml. Upload screenshot/video. Push to gh-pages branch. Voilá!
+  - title                                 : Pingable
+    description                           : Run !hello to get a reply back.
     fontawesome_icon_name                 : magic
     
   - title                                 : iPhone Device Preview
