@@ -5,3 +5,6 @@ Gemfile
 Gemfile.lock
 mobile-app-landing-page.gemspec
 *.gemspec
+node_modules
+config
+logs
