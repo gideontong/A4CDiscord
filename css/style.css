@@ -1011,19 +1011,19 @@ h3 {
 }
 
 /* line 102, ../../Arafath/CL/CL October/214. App Landing Page/HTML/scss/_header.scss */
-.header-area .main-header-area .Appointment .socail_links ul li {
+.header-area .main-header-area .Appointment .social_links ul li {
   display: inline-block;
 }
 
 /* line 105, ../../Arafath/CL/CL October/214. App Landing Page/HTML/scss/_header.scss */
-.header-area .main-header-area .Appointment .socail_links ul li a {
+.header-area .main-header-area .Appointment .social_links ul li a {
   color: #A8A7A0;
   margin: 0 10px;
   font-size: 15px;
 }
 
 /* line 109, ../../Arafath/CL/CL October/214. App Landing Page/HTML/scss/_header.scss */
-.header-area .main-header-area .Appointment .socail_links ul li a:hover {
+.header-area .main-header-area .Appointment .social_links ul li a:hover {
   color: #fff;
 }
 
@@ -3008,25 +3008,25 @@ h3 {
 }
 
 /* line 146, ../../Arafath/CL/CL October/214. App Landing Page/HTML/scss/_footer.scss */
-.footer .socail_links {
+.footer .social_links {
   margin-top: 47px;
 }
 
 @media (max-width: 767px) {
 
   /* line 146, ../../Arafath/CL/CL October/214. App Landing Page/HTML/scss/_footer.scss */
-  .footer .socail_links {
+  .footer .social_links {
     margin-top: 30px;
   }
 }
 
 /* line 152, ../../Arafath/CL/CL October/214. App Landing Page/HTML/scss/_footer.scss */
-.footer .socail_links ul li {
+.footer .social_links ul li {
   display: inline-block;
 }
 
 /* line 155, ../../Arafath/CL/CL October/214. App Landing Page/HTML/scss/_footer.scss */
-.footer .socail_links ul li a {
+.footer .social_links ul li a {
   font-size: 18px;
   color: #C3B2F0;
   width: 40px;
@@ -3044,7 +3044,7 @@ h3 {
 }
 
 /* line 168, ../../Arafath/CL/CL October/214. App Landing Page/HTML/scss/_footer.scss */
-.footer .socail_links ul li a:hover {
+.footer .social_links ul li a:hover {
   color: #fff !important;
   background: #5DB2FF;
 }
