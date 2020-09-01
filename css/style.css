@@ -1115,6 +1115,10 @@ h3 {
   transform: scaleX(1);
 }
 
+.header-area .main-header-area .main-menu ul li a.active {
+  border-bottom: 2px solid currentColor;
+}
+
 /* line 211, ../../Arafath/CL/CL October/214. App Landing Page/HTML/scss/_header.scss */
 .header-area .main-header-area .main-menu ul li .submenu {
   position: absolute;
