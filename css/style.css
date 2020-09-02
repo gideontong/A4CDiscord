@@ -1821,7 +1821,7 @@ h3 {
 .features_area .features_info ul li::before {
   position: absolute;
   left: 0;
-  background-image: url(../img/ilstrator_img/check.svg);
+  background-image: url(../img/illustrations/check.svg);
   width: 16px;
   height: 16px;
   content: '';
